@@ -39,4 +39,4 @@ The game ends when the player either guesses the word or runs out of attempts.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wordle-java.git
+[   git clone https://github.com/yourusername/wordle-java.git](https://github.com/simarpreetkaur-1/wordle_java/blob/main/Main.java)

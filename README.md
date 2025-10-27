@@ -1,8 +1,9 @@
-
 # 🧩 Wordle Game in Java
 
-A simple console-based version of the popular Wordle game, built using Java.  
+A simple console-based version of the popular **Wordle** game, built using **Java**.  
 Players have six attempts to guess a random five-letter word, with hints provided after each guess.
+
+Repository: https://github.com/simarpreetkaur-1/wordle_java/blob/main/Main.java
 
 ---
 
@@ -31,7 +32,7 @@ The game ends when the player either guesses the word or runs out of attempts.
 ## 💻 Technologies Used
 
 - **Language:** Java  
-- **IDE:** IntelliJ IDEA 
+- **IDE:** IntelliJ IDEA (or any Java IDE)
 
 ---
 
@@ -39,4 +40,4 @@ The game ends when the player either guesses the word or runs out of attempts.
 
 1. Clone the repository:
    ```bash
-[   git clone https://github.com/yourusername/wordle-java.git](https://github.com/simarpreetkaur-1/wordle_java/blob/main/Main.java)
+   git clone https://github.com/simarpreetkaur-1/wordle_java.git
